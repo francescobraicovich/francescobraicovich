@@ -2,9 +2,9 @@
 
 ## About Me
 - Name: Francesco Braicovich
-- Location: Milan
-- Occupation: Student
-- Interests: ML & AI, football, photography, The Economist, podcasts
+- Location: Milan, Italy
+- Occupation: Undergrad in Maths & CS for AI @ Bocconi University
+- Interests: ML & AI, coding, football, photography, The Economist, podcasts
 
 ## Contact Me
 - Email: francesco.braicovich@gmail.com
