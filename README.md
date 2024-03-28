@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like maths and coding
+I like maths and coding\\
 Interested in ML & AI
 
 <!--
