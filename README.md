@@ -1,4 +1,4 @@
-👋 #Hi There. Welcome to my GitHub profile! 
+👋 Hi There. Welcome to my GitHub profile! 
 
 ## About Me
 - Name: Francesco Braicovich
