@@ -1,12 +1,10 @@
 👋 Hi There. Welcome to my GitHub profile! 
 
 ## About Me
-- Name: Francesco Braicovich
-- Location: Milan, Italy
-- Occupation: Undergrad in Maths & CS for AI @ Bocconi University
-- Interests: ML & AI, coding, football, photography, The Economist, podcasts, composing music
+- Undergrad in Maths & CS for AI @ Bocconi University
+- Head of research/projects @ [Hephaestus Applied Artificial Intelligence](https://github.com/Hephaestus-AI-Association)
+- Interests: ML & AI, math, football, photography, The Economist, podcasts, composing music
 
-## Contact Me
-- Email: francesco.braicovich@gmail.com
-- LinkedIn: https://www.linkedin.com/in/francescobraicovich/
+## Relevant Projects
+- 
 
