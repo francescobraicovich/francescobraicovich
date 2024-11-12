@@ -1,6 +1,7 @@
 
 ## Ciao everyone! 👋
-I am francesco (braico for friends), a student in mathematics and computing sciences for AI at Bocconi University. 
+I am francesco (braico for friends), a student in mathematics and computing sciences for AI at Bocconi University.
+
 I currently am head of research/projects @ [Hephaestus Applied Artificial Intelligence](https://github.com/Hephaestus-AI-Association). 
 I am passionate of ML & AI, I enjoy maths, I am a football enthusiast, I take photos, I read obsessively The Economist and am a podcasts devourer.
 
