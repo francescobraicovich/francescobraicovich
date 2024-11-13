@@ -5,6 +5,7 @@
 - I'm passionate about ML & AI, enjoy math, am a football enthusiast, love photography, read The Economist obsessively, and devour podcasts.
 
 ### 📌 Some Relevant Projects 
-- [🔗 Wikipedia Missing Knowledge Links](https://github.com/francescobraicovich/Missing_Knowledge_Links_WIkipedia): This missing link analysis project aims to identify missing links between Wikipedia pages that should logically be connected. The process involves building a graph of Wikipedia pages, computing similarity scores, clustering the graph, and using machine learning to predict potential missing links.
+- [🏎️ Car Racing with Deep RL](https://github.com/francescobraicovich/Car-Racing-Deep-RL): I implemented a Deep Q-Learning agent for the CarRacing-v3 environment, using a CNN model with experience replay, frame stacking, and preprocessing. The agent processes raw pixel data to optimize driving actions on a racetrack.
+- [🔗 Wikipedia Missing Knowledge Links](https://github.com/francescobraicovich/Missing_Knowledge_Links_WIkipedia): I developed a missing link analysis to identify logical but absent connections between Wikipedia pages. This process involves constructing a graph of Wikipedia pages, calculating similarity scores, clustering the graph, and applying machine learning to predict potential missing links.
 - [📈 ML Portfolio Creation & Optimization](https://github.com/BSIC/bsic_hephaestus_paper): Joint project between Hephaestus and [BSIC](https://bsic.it) to build a portfolio of stocks from the SP500 through ML. Implemented Principal Feature Analysis (PFA) to reduce dimensionality and XGBoost to select stocks, confronted minimum variance and minimum entropy portfolio optimization.
 
