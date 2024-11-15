@@ -1,9 +1,9 @@
 
 ## Ciao everyone! 👋
  - I am francesco (braico for friends)
- - I study Maths & CS for AI @ Bocconi University. 
-- I currently am head of research/projects @ [Hephaestus Applied Artificial Intelligence](https://github.com/Hephaestus-AI-Association). 
-- I'm passionate about ML & AI, enjoy math, am a football enthusiast, love photography, read The Economist obsessively, and devour podcasts.
+ - I study Maths & CS for AI @ Bocconi University
+- I currently am head of research/projects @ [Hephaestus Applied Artificial Intelligence](https://github.com/Hephaestus-AI-Association)
+- I'm passionate about ML & AI, enjoy math, am a football enthusiast, love photography, read The Economist obsessively, and devour podcast
 
 ### 📌 Some Relevant Projects 
 - [🏎️ Car Racing with Deep RL](https://github.com/francescobraicovich/Car-Racing-Deep-RL): I implemented a Deep Q-Learning agent for the CarRacing-v3 environment, using a CNN model with experience replay, frame stacking, and preprocessing. The agent processes raw pixel data to optimize driving actions on a racetrack.
