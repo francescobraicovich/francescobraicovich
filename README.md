@@ -17,9 +17,10 @@
 
 ## 🤖 Machine Learning Projects
 
-- [`🏎️ Car Racing with Deep RL`](https://github.com/francescobraicovich/racing-rl): I implemented a Deep Q-Learning agent for the CarRacing-v3 environment, using a CNN model with experience replay, frame stacking, and preprocessing. The agent processes raw pixel data to optimize driving actions on a racetrack.
-- **ML Project B** – [Repo Link](https://github.com/you/ml-project-b) – One-line summary of data and performance.
-- **ML Project C** – [Repo Link](https://github.com/you/ml-project-c) – One-line summary of novelty or application.
+- [🏎️ Car Racing with Deep RL](https://github.com/francescobraicovich/racing-rl): A Deep Q-Learning agent for the CarRacing-v3 environment, using a CNN model with experience replay, frame stacking, and preprocessing. The agent processes raw pixel data to optimize driving actions on a racetrack.
+- [`🔗 Wikipedia Missing Knowledge Links`](https://github.com/francescobraicovich/Missing_Knowledge_Links_WIkipedia): A missing link analysis to identify logical but absent connections between Wikipedia pages.
+- [`📈 ML Portfolio Creation & Optimization`](https://github.com/BSIC/bsic_hephaestus_paper): Joint project between Hephaestus and [BSIC](https://bsic.it) for ML enabled portfolio creation from the SP500 through. Implemented Principal Feature Analysis (PFA) to reduce dimensionality and XGBoost to select stocks, confronted minimum variance and minimum entropy portfolio optimization.
+- [`🚔 Distracted Driving Detection`](https://github.com/francescobraicovich/Distracted-Driver-Detection): I implemented a hybrid architecture that combines deep learning feature extraction with hyperdimensional computing to achieve robust multiclassification distracted driving detection from images.
 
 ---
 
@@ -28,10 +29,4 @@
 - **Course Project X** – [Repo Link](https://github.com/you/course-project-x) – One-line overview of the assignment and results.
 - **Capstone Project Y** – [Repo Link](https://github.com/you/capstone-project-y) – One-line overview of scope and impact.
 - **Group Project Z** – [Repo Link](https://github.com/you/group-project-z) – One-line overview of your role and outcome.
-
-
-- [🏎️ Car Racing with Deep RL](https://github.com/francescobraicovich/racing-rl): I implemented a Deep Q-Learning agent for the CarRacing-v3 environment, using a CNN model with experience replay, frame stacking, and preprocessing. The agent processes raw pixel data to optimize driving actions on a racetrack.
-- [🔗 Wikipedia Missing Knowledge Links](https://github.com/francescobraicovich/Missing_Knowledge_Links_WIkipedia): I developed a missing link analysis to identify logical but absent connections between Wikipedia pages. This process involves constructing a graph of Wikipedia pages, calculating similarity scores, clustering the graph, and applying machine learning to predict potential missing links.
-- [📈 ML Portfolio Creation & Optimization](https://github.com/BSIC/bsic_hephaestus_paper): Joint project between Hephaestus and [BSIC](https://bsic.it) to build a portfolio of stocks from the SP500 through ML. Implemented Principal Feature Analysis (PFA) to reduce dimensionality and XGBoost to select stocks, confronted minimum variance and minimum entropy portfolio optimization.
-- [🚔 Distracted Driving Detection](https://github.com/francescobraicovich/Distracted-Driver-Detection): I implemented a hybrid architecture that combines deep learning feature extraction with hyperdimensional computing to achieve robust multiclassification distracted driving detection from images.
 
