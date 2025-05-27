@@ -8,31 +8,38 @@
 ### 📌 Some Relevant Projects 
 # My Projects
 
-Welcome to my portfolio of projects. They’re grouped into Research, Machine Learning, and University work. Click on a title to see the full repository.
+Below is a quick overview of my work—click any “Repo” link to dive in.
 
 ---
 
 ## 🧪 Research Projects
 
-- **Project Title 1** – [Repo Link](https://github.com/you/project-1) – One-line description of what this research achieves.
-- **Project Title 2** – [Repo Link](https://github.com/you/project-2) – One-line description of the key finding or contribution.
-- **Project Title 3** – [Repo Link](https://github.com/you/project-3) – One-line description of methodology or impact.
+| Title                | Description                                      | Repo                                         |
+|----------------------|--------------------------------------------------|----------------------------------------------|
+| **Project Title 1**  | One-line description of what this research does. | [Repo](https://github.com/you/project-1)     |
+| **Project Title 2**  | One-line description of its key finding.         | [Repo](https://github.com/you/project-2)     |
+| **Project Title 3**  | One-line description of methodology or impact.   | [Repo](https://github.com/you/project-3)     |
 
 ---
 
 ## 🤖 Machine Learning Projects
 
-- **ML Project A** – [Repo Link](https://github.com/you/ml-project-a) – One-line summary of model and outcome.
-- **ML Project B** – [Repo Link](https://github.com/you/ml-project-b) – One-line summary of data and performance.
-- **ML Project C** – [Repo Link](https://github.com/you/ml-project-c) – One-line summary of novelty or application.
+| Title                  | Description                                   | Repo                                           |
+|------------------------|-----------------------------------------------|------------------------------------------------|
+| **ML Project A**       | One-liner on model & outcome.                 | [Repo](https://github.com/you/ml-project-a)    |
+| **ML Project B**       | One-liner on dataset & performance.           | [Repo](https://github.com/you/ml-project-b)    |
+| **ML Project C**       | One-liner on novelty or real-world use-case.  | [Repo](https://github.com/you/ml-project-c)    |
 
 ---
 
 ## 🎓 University Projects
 
-- **Course Project X** – [Repo Link](https://github.com/you/course-project-x) – One-line overview of the assignment and results.
-- **Capstone Project Y** – [Repo Link](https://github.com/you/capstone-project-y) – One-line overview of scope and impact.
-- **Group Project Z** – [Repo Link](https://github.com/you/group-project-z) – One-line overview of your role and outcome.
+| Title                    | Description                                  | Repo                                                    |
+|--------------------------|----------------------------------------------|---------------------------------------------------------|
+| **Course Project X**     | Overview of the assignment & your solution.  | [Repo](https://github.com/you/course-project-x)         |
+| **Capstone Project Y**   | Scope, methods & impact in one line.         | [Repo](https://github.com/you/capstone-project-y)       |
+| **Group Project Z**      | Your role and outcome of the team’s effort.  | [Repo](https://github.com/you/group-project-z)          |
+
 
 - [🏎️ Car Racing with Deep RL](https://github.com/francescobraicovich/racing-rl): I implemented a Deep Q-Learning agent for the CarRacing-v3 environment, using a CNN model with experience replay, frame stacking, and preprocessing. The agent processes raw pixel data to optimize driving actions on a racetrack.
 - [🔗 Wikipedia Missing Knowledge Links](https://github.com/francescobraicovich/Missing_Knowledge_Links_WIkipedia): I developed a missing link analysis to identify logical but absent connections between Wikipedia pages. This process involves constructing a graph of Wikipedia pages, calculating similarity scores, clustering the graph, and applying machine learning to predict potential missing links.
