@@ -5,11 +5,11 @@
 - I currently am head of research/projects @ [Hephaestus Applied Artificial Intelligence](https://github.com/Hephaestus-AI-Association)
 - I'm passionate about ML & AI, enjoy math, am a football enthusiast, love photography, read The Economist, and podcast listener.
 
-### 📌 Some Relevant Projects 
+## 📌 Some Relevant Projects 
 
-##### 🧪 Research Projects
+#### Research Oriented Projects
 
-- **Project Title 1** – [Repo Link](https://github.com/you/project-1) – One-line description of what this research achieves.
+- **ARC with RL v1** – [Repo Link](https://github.com/you/project-1) – One-line description of what this research achieves.
 - **Project Title 2** – [Repo Link](https://github.com/you/project-2) – One-line description of the key finding or contribution.
 - **Project Title 3** – [Repo Link](https://github.com/you/project-3) – One-line description of methodology or impact.
 
@@ -17,7 +17,7 @@
 
 ## 🤖 Machine Learning Projects
 
-- **ML Project A** – [Repo Link](https://github.com/you/ml-project-a) – One-line summary of model and outcome.
+- [`🏎️ Car Racing with Deep RL`](https://github.com/francescobraicovich/racing-rl): I implemented a Deep Q-Learning agent for the CarRacing-v3 environment, using a CNN model with experience replay, frame stacking, and preprocessing. The agent processes raw pixel data to optimize driving actions on a racetrack.
 - **ML Project B** – [Repo Link](https://github.com/you/ml-project-b) – One-line summary of data and performance.
 - **ML Project C** – [Repo Link](https://github.com/you/ml-project-c) – One-line summary of novelty or application.
 
