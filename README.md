@@ -6,39 +6,28 @@
 - I'm passionate about ML & AI, enjoy math, am a football enthusiast, love photography, read The Economist, and podcast listener.
 
 ### 📌 Some Relevant Projects 
-# My Projects
 
-Below is a quick overview of my work—click any “Repo” link to dive in.
+##### 🧪 Research Projects
 
----
-
-## 🧪 Research Projects
-
-| Title                | Description                                      | Repo                                         |
-|----------------------|--------------------------------------------------|----------------------------------------------|
-| **Project Title 1**  | One-line description of what this research does. | [Repo](https://github.com/you/project-1)     |
-| **Project Title 2**  | One-line description of its key finding.         | [Repo](https://github.com/you/project-2)     |
-| **Project Title 3**  | One-line description of methodology or impact.   | [Repo](https://github.com/you/project-3)     |
+- **Project Title 1** – [Repo Link](https://github.com/you/project-1) – One-line description of what this research achieves.
+- **Project Title 2** – [Repo Link](https://github.com/you/project-2) – One-line description of the key finding or contribution.
+- **Project Title 3** – [Repo Link](https://github.com/you/project-3) – One-line description of methodology or impact.
 
 ---
 
 ## 🤖 Machine Learning Projects
 
-| Title                  | Description                                   | Repo                                           |
-|------------------------|-----------------------------------------------|------------------------------------------------|
-| **ML Project A**       | One-liner on model & outcome.                 | [Repo](https://github.com/you/ml-project-a)    |
-| **ML Project B**       | One-liner on dataset & performance.           | [Repo](https://github.com/you/ml-project-b)    |
-| **ML Project C**       | One-liner on novelty or real-world use-case.  | [Repo](https://github.com/you/ml-project-c)    |
+- **ML Project A** – [Repo Link](https://github.com/you/ml-project-a) – One-line summary of model and outcome.
+- **ML Project B** – [Repo Link](https://github.com/you/ml-project-b) – One-line summary of data and performance.
+- **ML Project C** – [Repo Link](https://github.com/you/ml-project-c) – One-line summary of novelty or application.
 
 ---
 
 ## 🎓 University Projects
 
-| Title                    | Description                                  | Repo                                                    |
-|--------------------------|----------------------------------------------|---------------------------------------------------------|
-| **Course Project X**     | Overview of the assignment & your solution.  | [Repo](https://github.com/you/course-project-x)         |
-| **Capstone Project Y**   | Scope, methods & impact in one line.         | [Repo](https://github.com/you/capstone-project-y)       |
-| **Group Project Z**      | Your role and outcome of the team’s effort.  | [Repo](https://github.com/you/group-project-z)          |
+- **Course Project X** – [Repo Link](https://github.com/you/course-project-x) – One-line overview of the assignment and results.
+- **Capstone Project Y** – [Repo Link](https://github.com/you/capstone-project-y) – One-line overview of scope and impact.
+- **Group Project Z** – [Repo Link](https://github.com/you/group-project-z) – One-line overview of your role and outcome.
 
 
 - [🏎️ Car Racing with Deep RL](https://github.com/francescobraicovich/racing-rl): I implemented a Deep Q-Learning agent for the CarRacing-v3 environment, using a CNN model with experience replay, frame stacking, and preprocessing. The agent processes raw pixel data to optimize driving actions on a racetrack.
