@@ -2,7 +2,8 @@
 ## Ciao everyone! 👋
 - I am francesco (braico for friends)
 - I study Maths for AI @ Bocconi University
-- I currently am head of research/projects @ [Hephaestus Applied Artificial Intelligence](https://github.com/Hephaestus-AI-Association)
+- I am head of research/projects @ [Hephaestus Applied Artificial Intelligence](https://github.com/Hephaestus-AI-Association)
+- Currently trying to wrap my head around how pure RL could solve the [ARC-AGI benchmark](https://arcprize.org). 
 
 ## 📌 Some Relevant Projects 
 
