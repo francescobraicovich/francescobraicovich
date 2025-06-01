@@ -9,23 +9,22 @@
 
 #### Research Oriented Projects
 
-- `🧩 ARC-AGI with Reinforcement Learning`: A novel framework to solve ARC-AGI tasks with sequential actions through RL.
-  - [`ARC (v1)`](https://github.com/francescobraicovich/ARC.git): Designed a custom Domain Specific Language, action space and implemented Wolpertinger Actor-Critic for the large combinatorial space.  
-  - [`ARC (v2)`](https://github.com/francescobraicovich/ARC2.git): An improvement to v1, implemented learnable action embeddings and ViT state encoding with pretrained world model to ease action space navigation.  
-  - `ARC (v3)`: Implementing a Hierarchical World Model for the RL agent to leverage during training and inference.
-- [`💧 Drop-Stochastic Gradient Descent`](https://github.com/francescobraicovich/dsgd.git): A new PyTorch optimizer that stochastically selects which parameters to update at each iteration. 
-- [`🌍 RL World Models`](https://github.com/francescobraicovich/rl-worlds.git): Evaluating JEPA world model with VICReg against ViT Encoder-Decoder models on RL environments.  
+- `🧩 ARC-AGI with Reinforcement Learning`: RL framework for ARC-AGI tasks using sequential actions.
+  - [`ARC (v1)`](https://github.com/francescobraicovich/ARC.git): Custom DSL and action space with Wolpertinger Actor-Critic for large combinatorial domains.  
+  - [`ARC (v2)`](https://github.com/francescobraicovich/ARC2.git): Added learnable action embeddings and ViT state encoding with a pretrained world model.  
+  - `ARC (v3)`: Developing a hierarchical world model for the RL agent.  
+- [`💧 Drop-Stochastic Gradient Descent`](https://github.com/francescobraicovich/dsgd.git): PyTorch optimizer that randomly selects parameters to update each iteration.  
+- [`🌍 RL World Models`](https://github.com/francescobraicovich/rl-worlds.git): Benchmarking JEPA+VICReg vs. ViT encoder–decoder world models in RL environments.  
 
 #### Personal ML Projects
 
-- [`🏎️ Car Racing with Deep RL`](https://github.com/francescobraicovich/racing-rl): A Deep Q-Learning agent for the CarRacing-v3 environment, using a CNN model with experience replay, frame stacking, and preprocessing. The agent processes raw pixel data to optimize driving actions on a racetrack.
-- [`🔗 Wikipedia Missing Knowledge Links`](https://github.com/francescobraicovich/Missing_Knowledge_Links_WIkipedia): A missing link analysis to identify logical but absent connections between Wikipedia pages.
-- [`📈 ML Portfolio Creation & Optimization`](https://github.com/BSIC/bsic_hephaestus_paper): Joint project between Hephaestus and [BSIC](https://bsic.it) for ML enabled portfolio creation from the SP500 through. Implemented Principal Feature Analysis (PFA) to reduce dimensionality and XGBoost to select stocks, confronted minimum variance and minimum entropy portfolio optimization.
-- [`🚔 Distracted Driving Detection`](https://github.com/francescobraicovich/Distracted-Driver-Detection): I implemented a hybrid architecture that combines deep learning feature extraction with hyperdimensional computing to achieve robust multiclassification distracted driving detection from images.
-
+- [`🏎️ Car Racing with Deep RL`](https://github.com/francescobraicovich/racing-rl): Deep Q-Learning agent for CarRacing-v3 using a CNN with frame stacking and experience replay.  
+- [`🔗 Wikipedia Missing Knowledge Links`](https://github.com/francescobraicovich/Missing_Knowledge_Links_WIkipedia): Analysis to detect logical but missing links between Wikipedia pages.  
+- [`📈 ML Portfolio Creation & Optimization`](https://github.com/BSIC/bsic_hephaestus_paper): SP500 portfolio built with PFA and XGBoost, minimized variance and entropy.  
+- [`🚔 Distracted Driving Detection`](https://github.com/francescobraicovich/Distracted-Driver-Detection): Hybrid deep learning and hyperdimensional computing model for multiclass distracted driving image classification.  
 
 #### University Related Projects
 
-- [`⚡️ Hyper-Parameter Optimization`](https://github.com/francescobraicovich/parameter_optimization.git): Comparing various hyper-parameter optimization algorithms on kNN and Logistic Regression classifiers.
+- [`⚡️ Hyper-Parameter Optimization`](https://github.com/francescobraicovich/parameter_optimization.git): Comparison of hyper-parameter optimization algorithms on kNN and logistic regression classifiers.  
 
 
