@@ -18,7 +18,7 @@
 
 #### Personal ML Projects
 
-- [`🏎️ Car Racing with Deep RL`](https://github.com/francescobraicovich/racing-rl): Deep Q-Learning agent for CarRacing-v3 using a CNN with frame stacking and experience replay.  
+- [`🏎️ Car Racing with Deep RL`](https://github.com/francescobraicovich/racing-rl): Deep Q-Learning agent for CarRacing-v3 using a CNN and experience replay.  
 - [`🔗 Wikipedia Missing Knowledge Links`](https://github.com/francescobraicovich/Missing_Knowledge_Links_WIkipedia): Analysis to detect logical but missing links between Wikipedia pages.  
 - [`📈 ML Portfolio Creation & Optimization`](https://github.com/BSIC/bsic_hephaestus_paper): SP500 portfolio built with PFA and XGBoost, minimized variance and entropy.  
 - [`🚔 Distracted Driving Detection`](https://github.com/francescobraicovich/Distracted-Driver-Detection): Hybrid deep learning and hyperdimensional computing model for multiclass distracted driving image classification.  
