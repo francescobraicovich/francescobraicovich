@@ -14,7 +14,7 @@
   - [`ARC (v2)`](https://github.com/francescobraicovich/ARC2.git): Added learnable action embeddings and ViT state encoding with a pretrained world model.  
   - `ARC (v3)`: Developing a hierarchical world model for the RL agent.  
 - [`💧 Drop-Stochastic Gradient Descent`](https://github.com/francescobraicovich/dsgd.git): PyTorch optimizer that randomly selects parameters to update each iteration.  
-- [`🌍 RL World Models`](https://github.com/bocconi-narcos/rl-worlds.git): Benchmarking JEPA+VICReg vs. ViT encoder–decoder world models in RL environments.  
+- [`🌍 RL World Models`](https://github.com/bocconi-narcos/rl-worlds.git): Benchmarking JEPA vs. encoder–decoder world models in RL environments.  
 
 #### Personal ML Projects
 
