@@ -12,9 +12,9 @@
 - `🧩 ARC-AGI with Reinforcement Learning`: RL framework for ARC-AGI tasks using sequential actions.
   - [`ARC (v1)`](https://github.com/francescobraicovich/ARC.git): Custom DSL and action space with Wolpertinger Actor-Critic for large combinatorial domains.  
   - [`ARC (v2)`](https://github.com/francescobraicovich/ARC2.git): Added learnable action embeddings and ViT state encoding with a pretrained world model.  
-  - `ARC (v3)`: Developing a hierarchical world model for the RL agent.  
+  - `ARC (v3)`: Developing a hierarchical world model for the RL agent.  Coming soon!
 - [`💧 Drop-Stochastic Gradient Descent`](https://github.com/francescobraicovich/dsgd.git): PyTorch optimizer that randomly selects parameters to update each iteration.  
-- [`🌍 RL World Models`](https://github.com/bocconi-narcos/rl-worlds.git): Benchmarking JEPA vs. encoder–decoder world models in RL environments. This is not up to date with recent work.
+- [`🌍 RL World Models`](https://github.com/bocconi-narcos/rl-worlds.git): Benchmarking JEPA vs. encoder–decoder world models in RL environments. Updates coming soon.
 
 #### Personal ML Projects
 
